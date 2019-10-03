@@ -5,6 +5,7 @@ tmp/
 .eclipse
 .sts
 .DS*
+.project
 
 # Compiled class file
 *.class
